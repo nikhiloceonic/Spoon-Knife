@@ -10,3 +10,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Practising Git workflow: edit, stage, commit and push to get to know the flow.
 samjha na bhai?
+
+need to practice:
+python
