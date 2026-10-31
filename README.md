@@ -13,3 +13,8 @@ samjha na bhai?
 
 need to practice:
 python
+
+how was the day?
+what about tommarow?
+what about today?
+what will be tommarow?
