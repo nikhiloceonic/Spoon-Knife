@@ -13,3 +13,5 @@ samjha na bhai?
 
 how was the day?
 what about tommarow?
+what about today?
+what will be tommarow?
